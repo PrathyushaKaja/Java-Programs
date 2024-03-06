@@ -3,9 +3,9 @@ Programming is a way to “instruct the computer to perform various tasks in a s
 
 Programming paradigm is an approach to solve problem using some programming language
 
-Programming paradigm  
-Imperative programming (how to do)  Procedural programming, structural programming, object-oriented programming
-Declarative programming (what to do)  Functional programming, logic programming, database programming
+Programming paradigm: 
+Imperative programming (how to do) --> Procedural programming, structural programming, object-oriented programming
+Declarative programming (what to do) --> Functional programming, logic programming, database programming
 
 What is java?
 Java is an object-oriented programming language designed to develop all kinds of applications
@@ -24,14 +24,14 @@ Advantages and disadvantages of java:
 •	Platform-independent  windows, MAC or linux it will work on any platform
 •	Distributed 
 •	Secure
-•	Robust  we can even extend the application
+•	Robust --> we can even extend the application
 
 UI issues are the disadvantage for java language
 
 Different technologies available in java:
-Java SE  standard edition  Develop desktop/standalone (calculator etc.…) applications
-Java EE    Enterprise edition   Develop web applications
-Java ME  Micro edition  Embedded applications ex: coffee machine
+Java SE --> standard edition --> Develop desktop/standalone (calculator etc.…) applications
+Java EE --> Enterprise edition --> Develop web applications
+Java ME --> Micro edition --> Embedded applications ex: coffee machine
 
 What is core java and why it is popular?
 1.	Core java contains the actual java programming and is widely in any kind of application development
@@ -42,29 +42,28 @@ Data types in java:
 What is a data type?
 A data type is a classification of data which tells the compiler or interpreter how the programmer intends to use the data.
 
-Wrapper classes  
-Integer  Byte, Short, Integer, Long
-Decimal  Float, Double
+Wrapper classes:
+Integer --> Byte, Short, Integer, Long
+Decimal --> Float, Double
 Boolean, and Character
 
-Primitive data types  Integer Type: byte, short, int, long 
-                                          Decimal Type: float, double
-                                          Boolean: Boolean
-                                          Character: char
-
+Primitive data types --> Integer Type: byte, short, int, long 
+                         Decimal Type: float, double
+                         Boolean: Boolean
+                         Character: char
 Based on size data types are divided
 
 Computer Memory Units:
-Bit  binary digit  least  whatever we store in computer but internally it converts into bit and stores in it 
-1 Nibble  4 bits 
-1 Byte  8 bits 
-1 Kilo byte (KB)  1024 bytes  1024/8  Ans
-1 Mega byte (MB) downloads  1024 kilobyte 
-1 Giga byte (GB) phones  1024 mega bytes
-1 Tera byte (TB)  hard disk  1024 giga bytes  upto this we will use 
-1 Peta byte (PB)  1024 tera bytes
+Bit --> binary digit --> least --> whatever we store in computer but internally it converts into bit and stores in it 
+1 Nibble --> 4 bits 
+1 Byte --> 8 bits 
+1 Kilo byte (KB) --> 1024 bytes --> 1024/8  Ans
+1 Mega byte (MB) --> downloads --> 1024 kilobyte 
+1 Giga byte (GB) --> phones --> 1024 mega bytes
+1 Tera byte (TB) --> hard disk --> 1024 giga bytes --> upto this we will use 
+1 Peta byte (PB) --> 1024 tera bytes
 
-Non-Primitive data types 
+Non-Primitive data types:
 Non-primitive data types are not pre-defined 
 This data types don’t have any size by default 
 Arrays and collections will use primitive data types to store the values
@@ -78,10 +77,10 @@ Variables in java:
 What is a variable?
 A variable is a container which holds the value/data while the java program is executed so that we can access the variable further.
 Different type of variables in java:
-Instance variables (non-static fields)  global variables
-Class variables (static fields)  global variables
-Local variables 
-Parameters  Local variables
+1. Instance variables (non-static fields) --> global variables
+2. Class variables (static fields) --> global variables
+3. Local variables 
+4. Parameters --> Local variables
                              
 Variable syntax: DataType variableName = variableValue;
 
@@ -89,7 +88,7 @@ Variable syntax: DataType variableName = variableValue;
 Naming conventions for the variables:
 1.	Variables are case-sensitive
 2.	Single word  lower case
-3.	More than one word  camel case  ex:firstName
+3.	More than one word --> camel case --> ex:firstName
 4.	We should not use the reserved keywords as the variable names as it is if we want to mention we have to extend that name 
 5.	Don’t use short forms
 6.	_, $  we can use this symbol in variable names. But cannot start with _ or $
