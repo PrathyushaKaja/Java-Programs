@@ -2,9 +2,13 @@ Collections in java:
 
 Collections is a framework provided by java
 
-This framework provides many interfaces and their implemented classes in order to store group of objects (elements) in a single entity
+This framework provides many interfaces and their implemented classes in order to store group 
+of objects (elements) in a single entity
 
-Collections are far more advanced than arrays. Where Arrays are static(i.e.,) fixed size and collections are dynamic. Because of the arrays disadvantages collections are came into the picture. We have to specify size for the arrays and we can't increase or decrease the array size where as collections are dynamic no need to specify any size
+Collections are far more advanced than arrays. Where Arrays are static(i.e.,) fixed size 
+and collections are dynamic. Because of the arrays disadvantages collections are came into the 
+picture. We have to specify size for the arrays and we can't increase or decrease the array size 
+where as collections are dynamic no need to specify any size
 
 collections Framework is divided into two types:
 1. Collection(interface)  
